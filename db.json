@@ -15,19 +15,9 @@
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": 1
-    },
-    {
       "userId": 1,
       "title": "Bespoke Cotton Soap",
       "id": 11
-    },
-    {
-      "userId": 1,
-      "title": "Handcrafted Metal Chips",
-      "id": 12
     },
     {
       "userId": 2,
@@ -35,19 +25,14 @@
       "id": 13
     },
     {
-      "userId": 1,
-      "title": "Modern Bronze Chips",
-      "id": 14
-    },
-    {
-      "userId": 1,
-      "title": "Intelligent Wooden Shoes",
-      "id": 15
-    },
-    {
       "userId": 2,
       "title": "Elegant Soft Pants",
       "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Luxurious Wooden Chips",
+      "id": 17
     }
   ],
   "photos": []
