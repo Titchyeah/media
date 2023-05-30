@@ -31,9 +31,20 @@
     },
     {
       "userId": 1,
-      "title": "Luxurious Wooden Chips",
+      "title": "Modern Bronze Chair",
       "id": 17
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=61976",
+      "id": 1
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/150/150/abstract?lock=16073",
+      "id": 2
+    }
+  ]
 }
